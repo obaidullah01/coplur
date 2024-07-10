@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\obaid\\OneDrive\\Desktop\\Coplur Assignments\\Logger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\OneDrive\\Desktop\\Coplur Assignments\\Logger\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\OneDrive\\Desktop\\Coplur Assignments\\Logger\\LogManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\OneDrive\\Desktop\\Coplur Assignments\\Logger\\FileLogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileLogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\source\\repos\\Logger\\Logger\\filelogger.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\OneDrive\\Desktop\\Coplur Assignments\\Logger\\CloudLogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CloudLogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "filelogger.txt",
+              "DocumentMoniker": "C:\\Users\\obaid\\source\\repos\\Logger\\Logger\\filelogger.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\Logger\\Logger\\filelogger.txt",
+              "ToolTip": "C:\\Users\\obaid\\source\\repos\\Logger\\Logger\\filelogger.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Logger\\Logger\\filelogger.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-10T18:20:47.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogManager.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\OneDrive\\Desktop\\Coplur Assignments\\Logger\\LogManager.cs",
+              "RelativeDocumentMoniker": "LogManager.cs",
+              "ToolTip": "C:\\Users\\obaid\\OneDrive\\Desktop\\Coplur Assignments\\Logger\\LogManager.cs",
+              "RelativeToolTip": "LogManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T18:11:31.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\OneDrive\\Desktop\\Coplur Assignments\\Logger\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\obaid\\OneDrive\\Desktop\\Coplur Assignments\\Logger\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T18:10:27.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\OneDrive\\Desktop\\Coplur Assignments\\Logger\\FileLogger.cs",
+              "RelativeDocumentMoniker": "FileLogger.cs",
+              "ToolTip": "C:\\Users\\obaid\\OneDrive\\Desktop\\Coplur Assignments\\Logger\\FileLogger.cs",
+              "RelativeToolTip": "FileLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T18:10:08.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CloudLogger.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\OneDrive\\Desktop\\Coplur Assignments\\Logger\\CloudLogger.cs",
+              "RelativeDocumentMoniker": "CloudLogger.cs",
+              "ToolTip": "C:\\Users\\obaid\\OneDrive\\Desktop\\Coplur Assignments\\Logger\\CloudLogger.cs",
+              "RelativeToolTip": "CloudLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T18:10:05.169Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
