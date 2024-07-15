@@ -1,0 +1,14 @@
+C:\Users\obaid\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\obaid\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\obaid\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\obaid\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+C:\Users\obaid\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\obaid\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\obaid\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\obaid\OneDrive\Desktop\Coplur Assignments\List And Dictionary Assignments\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+C:\Users\obaid\OneDrive\Desktop\Coplur Assignments\List And Dictionary Assignments\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\obaid\OneDrive\Desktop\Coplur Assignments\List And Dictionary Assignments\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\obaid\OneDrive\Desktop\Coplur Assignments\List And Dictionary Assignments\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\obaid\OneDrive\Desktop\Coplur Assignments\List And Dictionary Assignments\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\obaid\OneDrive\Desktop\Coplur Assignments\List And Dictionary Assignments\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\obaid\OneDrive\Desktop\Coplur Assignments\List And Dictionary Assignments\Assignment1\bin\Debug\Assignment1.pdb

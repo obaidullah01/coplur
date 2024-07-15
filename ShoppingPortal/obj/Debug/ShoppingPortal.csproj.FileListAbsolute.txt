@@ -1,0 +1,7 @@
+C:\Users\obaid\source\repos\ShoppingPortal\ShoppingPortal\bin\Debug\ShoppingPortal.exe.config
+C:\Users\obaid\source\repos\ShoppingPortal\ShoppingPortal\bin\Debug\ShoppingPortal.exe
+C:\Users\obaid\source\repos\ShoppingPortal\ShoppingPortal\bin\Debug\ShoppingPortal.pdb
+C:\Users\obaid\source\repos\ShoppingPortal\ShoppingPortal\obj\Debug\ShoppingPortal.csproj.AssemblyReference.cache
+C:\Users\obaid\source\repos\ShoppingPortal\ShoppingPortal\obj\Debug\ShoppingPortal.csproj.CoreCompileInputs.cache
+C:\Users\obaid\source\repos\ShoppingPortal\ShoppingPortal\obj\Debug\ShoppingPortal.exe
+C:\Users\obaid\source\repos\ShoppingPortal\ShoppingPortal\obj\Debug\ShoppingPortal.pdb

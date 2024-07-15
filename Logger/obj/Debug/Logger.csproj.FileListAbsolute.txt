@@ -12,3 +12,10 @@ C:\Users\obaid\source\repos\Logger\Logger\obj\Debug\Logger.csproj.AssemblyRefere
 C:\Users\obaid\source\repos\Logger\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
 C:\Users\obaid\source\repos\Logger\Logger\obj\Debug\Logger.exe
 C:\Users\obaid\source\repos\Logger\Logger\obj\Debug\Logger.pdb
+C:\Users\obaid\OneDrive\Desktop\Coplur Assignments\Logger\bin\Debug\Logger.exe.config
+C:\Users\obaid\OneDrive\Desktop\Coplur Assignments\Logger\bin\Debug\Logger.exe
+C:\Users\obaid\OneDrive\Desktop\Coplur Assignments\Logger\bin\Debug\Logger.pdb
+C:\Users\obaid\OneDrive\Desktop\Coplur Assignments\Logger\obj\Debug\Logger.csproj.AssemblyReference.cache
+C:\Users\obaid\OneDrive\Desktop\Coplur Assignments\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Users\obaid\OneDrive\Desktop\Coplur Assignments\Logger\obj\Debug\Logger.exe
+C:\Users\obaid\OneDrive\Desktop\Coplur Assignments\Logger\obj\Debug\Logger.pdb
