@@ -11,8 +11,8 @@
       "RelativeMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|solutionrelative:fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|c:\\users\\obaid\\source\\repos\\restaurant\\billmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|solutionrelative:billmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|c:\\users\\obaid\\source\\repos\\restaurant\\manager\\billmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|solutionrelative:manager\\billmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|c:\\users\\obaid\\source\\repos\\restaurant\\filesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,16 +23,16 @@
       "RelativeMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|solutionrelative:contract\\isaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|c:\\users\\obaid\\source\\repos\\restaurant\\savermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|solutionrelative:savermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|c:\\users\\obaid\\source\\repos\\restaurant\\manager\\savermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|solutionrelative:manager\\savermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|c:\\users\\obaid\\source\\repos\\restaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|c:\\users\\obaid\\source\\repos\\restaurant\\itemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|solutionrelative:itemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|c:\\users\\obaid\\source\\repos\\restaurant\\manager\\itemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|solutionrelative:manager\\itemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|c:\\users\\obaid\\source\\repos\\restaurant\\contract\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -108,10 +108,10 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "BillManager.cs",
-              "DocumentMoniker": "C:\\Users\\obaid\\source\\repos\\Restaurant\\BillManager.cs",
-              "RelativeDocumentMoniker": "BillManager.cs",
-              "ToolTip": "C:\\Users\\obaid\\source\\repos\\Restaurant\\BillManager.cs",
-              "RelativeToolTip": "BillManager.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\source\\repos\\Restaurant\\Manager\\BillManager.cs",
+              "RelativeDocumentMoniker": "Manager\\BillManager.cs",
+              "ToolTip": "C:\\Users\\obaid\\source\\repos\\Restaurant\\Manager\\BillManager.cs",
+              "RelativeToolTip": "Manager\\BillManager.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAASwBoAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T10:39:47.073Z",
@@ -121,10 +121,10 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "SaverManager.cs",
-              "DocumentMoniker": "C:\\Users\\obaid\\source\\repos\\Restaurant\\SaverManager.cs",
-              "RelativeDocumentMoniker": "SaverManager.cs",
-              "ToolTip": "C:\\Users\\obaid\\source\\repos\\Restaurant\\SaverManager.cs",
-              "RelativeToolTip": "SaverManager.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\source\\repos\\Restaurant\\Manager\\SaverManager.cs",
+              "RelativeDocumentMoniker": "Manager\\SaverManager.cs",
+              "ToolTip": "C:\\Users\\obaid\\source\\repos\\Restaurant\\Manager\\SaverManager.cs",
+              "RelativeToolTip": "Manager\\SaverManager.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAlwBEAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T19:17:52.545Z",
@@ -160,10 +160,10 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ItemManager.cs",
-              "DocumentMoniker": "C:\\Users\\obaid\\source\\repos\\Restaurant\\ItemManager.cs",
-              "RelativeDocumentMoniker": "ItemManager.cs",
-              "ToolTip": "C:\\Users\\obaid\\source\\repos\\Restaurant\\ItemManager.cs",
-              "RelativeToolTip": "ItemManager.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\source\\repos\\Restaurant\\Manager\\ItemManager.cs",
+              "RelativeDocumentMoniker": "Manager\\ItemManager.cs",
+              "ToolTip": "C:\\Users\\obaid\\source\\repos\\Restaurant\\Manager\\ItemManager.cs",
+              "RelativeToolTip": "Manager\\ItemManager.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAtwB4AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T06:10:23.82Z",
