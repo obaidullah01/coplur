@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\obaid\\source\\repos\\Restaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|c:\\users\\obaid\\source\\repos\\restaurant\\drinkitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|solutionrelative:drinkitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|c:\\users\\obaid\\source\\repos\\restaurant\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|solutionrelative:fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|c:\\users\\obaid\\source\\repos\\restaurant\\billmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|solutionrelative:billmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|c:\\users\\obaid\\source\\repos\\restaurant\\filesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|solutionrelative:filesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|c:\\users\\obaid\\source\\repos\\restaurant\\contract\\isaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|solutionrelative:contract\\isaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|c:\\users\\obaid\\source\\repos\\restaurant\\savermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|solutionrelative:savermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|c:\\users\\obaid\\source\\repos\\restaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|c:\\users\\obaid\\source\\repos\\restaurant\\itemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|solutionrelative:itemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|c:\\users\\obaid\\source\\repos\\restaurant\\contract\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|solutionrelative:contract\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|c:\\users\\obaid\\source\\repos\\restaurant\\contract\\iitemextended.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34296EED-02D1-40DC-B566-3305D9D60180}|Restaurant.csproj|solutionrelative:contract\\iitemextended.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISaver.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\source\\repos\\Restaurant\\Contract\\ISaver.cs",
+              "RelativeDocumentMoniker": "Contract\\ISaver.cs",
+              "ToolTip": "C:\\Users\\obaid\\source\\repos\\Restaurant\\Contract\\ISaver.cs",
+              "RelativeToolTip": "Contract\\ISaver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:18:42.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IItem.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\source\\repos\\Restaurant\\Contract\\IItem.cs",
+              "RelativeDocumentMoniker": "Contract\\IItem.cs",
+              "ToolTip": "C:\\Users\\obaid\\source\\repos\\Restaurant\\Contract\\IItem.cs",
+              "RelativeToolTip": "Contract\\IItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:10:04.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FoodItem.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\source\\repos\\Restaurant\\FoodItem.cs",
+              "RelativeDocumentMoniker": "FoodItem.cs",
+              "ToolTip": "C:\\Users\\obaid\\source\\repos\\Restaurant\\FoodItem.cs",
+              "RelativeToolTip": "FoodItem.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:14:09.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DrinkItem.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\source\\repos\\Restaurant\\DrinkItem.cs",
+              "RelativeDocumentMoniker": "DrinkItem.cs",
+              "ToolTip": "C:\\Users\\obaid\\source\\repos\\Restaurant\\DrinkItem.cs",
+              "RelativeToolTip": "DrinkItem.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:24:47.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BillManager.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\source\\repos\\Restaurant\\BillManager.cs",
+              "RelativeDocumentMoniker": "BillManager.cs",
+              "ToolTip": "C:\\Users\\obaid\\source\\repos\\Restaurant\\BillManager.cs",
+              "RelativeToolTip": "BillManager.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAASwBoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:39:47.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SaverManager.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\source\\repos\\Restaurant\\SaverManager.cs",
+              "RelativeDocumentMoniker": "SaverManager.cs",
+              "ToolTip": "C:\\Users\\obaid\\source\\repos\\Restaurant\\SaverManager.cs",
+              "RelativeToolTip": "SaverManager.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAlwBEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:17:52.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Filesaver.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\source\\repos\\Restaurant\\Filesaver.cs",
+              "RelativeDocumentMoniker": "Filesaver.cs",
+              "ToolTip": "C:\\Users\\obaid\\source\\repos\\Restaurant\\Filesaver.cs",
+              "RelativeToolTip": "Filesaver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:36:12.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IItemExtended.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\source\\repos\\Restaurant\\Contract\\IItemExtended.cs",
+              "RelativeDocumentMoniker": "Contract\\IItemExtended.cs",
+              "ToolTip": "C:\\Users\\obaid\\source\\repos\\Restaurant\\Contract\\IItemExtended.cs",
+              "RelativeToolTip": "Contract\\IItemExtended.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:06:57.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemManager.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\source\\repos\\Restaurant\\ItemManager.cs",
+              "RelativeDocumentMoniker": "ItemManager.cs",
+              "ToolTip": "C:\\Users\\obaid\\source\\repos\\Restaurant\\ItemManager.cs",
+              "RelativeToolTip": "ItemManager.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAtwB4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:10:23.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\source\\repos\\Restaurant\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\obaid\\source\\repos\\Restaurant\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwEEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T12:18:47.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

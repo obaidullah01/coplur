@@ -1,0 +1,6 @@
+Your Final Bill : 
+
+Cheese Chutney : Rs.45
+
+------------------ 
+Total Price : 45
